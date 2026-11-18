@@ -1,7 +1,7 @@
 {
  "models": {
   "1212371": {
-   "last_in_stock": "2026-11-18T17:46:52+00:00",
+   "last_in_stock": "2026-11-18T17:54:58+00:00",
    "since": "2026-11-18T17:46:52+00:00",
    "name": "PS5 Slim 1TB עם דיסק",
    "type": "דיסק",
@@ -53,11 +53,12 @@
      "url": "https://www.zap.co.il/fs?pid=1464666902"
     }
    ],
-   "checked": "2026-11-18T17:46:52+00:00",
-   "error": null
+   "checked": "2026-11-18T17:54:58+00:00",
+   "error": null,
+   "in_stock": true
   },
   "1212373": {
-   "last_in_stock": "2026-11-18T17:46:55+00:00",
+   "last_in_stock": "2026-11-18T17:55:00+00:00",
    "since": "2026-11-18T17:46:55+00:00",
    "name": "PS5 Slim 1TB דיגיטלי",
    "type": "דיגיטלי",
@@ -79,11 +80,12 @@
      "url": "https://www.zap.co.il/fs?pid=1464111264"
     }
    ],
-   "checked": "2026-11-18T17:46:55+00:00",
-   "error": null
+   "checked": "2026-11-18T17:55:00+00:00",
+   "error": null,
+   "in_stock": true
   },
   "1236321": {
-   "last_in_stock": "2026-11-18T17:46:57+00:00",
+   "last_in_stock": "2026-11-18T17:55:03+00:00",
    "since": "2026-11-18T17:46:57+00:00",
    "name": "PS5 Pro 2TB",
    "type": "Pro",
@@ -155,11 +157,12 @@
      "url": "https://www.zap.co.il/fs?pid=1471378945"
     }
    ],
-   "checked": "2026-11-18T17:46:57+00:00",
-   "error": null
+   "checked": "2026-11-18T17:55:03+00:00",
+   "error": null,
+   "in_stock": true
   },
   "1259070": {
-   "last_in_stock": "2026-11-18T17:47:00+00:00",
+   "last_in_stock": "2026-11-18T17:55:05+00:00",
    "since": "2026-11-18T17:47:00+00:00",
    "name": "PS5 Pro 2TB + FC 26",
    "type": "Pro",
@@ -171,11 +174,12 @@
      "url": "https://www.zap.co.il/fs?pid=1440959205"
     }
    ],
-   "checked": "2026-11-18T17:47:00+00:00",
-   "error": null
+   "checked": "2026-11-18T17:55:05+00:00",
+   "error": null,
+   "in_stock": true
   },
   "943747": {
-   "last_in_stock": "2026-11-18T17:47:02+00:00",
+   "last_in_stock": "2026-11-18T17:55:08+00:00",
    "since": "2026-11-18T17:47:02+00:00",
    "name": "PS5 825GB עם דיסק (דגם ישן)",
    "type": "דיסק",
@@ -187,11 +191,12 @@
      "url": "https://www.zap.co.il/fs?pid=1440959198"
     }
    ],
-   "checked": "2026-11-18T17:47:02+00:00",
-   "error": null
+   "checked": "2026-11-18T17:55:08+00:00",
+   "error": null,
+   "in_stock": true
   },
   "1096042": {
-   "last_in_stock": "2026-11-18T17:47:04+00:00",
+   "last_in_stock": "2026-11-18T17:55:10+00:00",
    "since": "2026-11-18T17:47:04+00:00",
    "name": "PS5 825GB דיגיטלי (דגם ישן)",
    "type": "דיגיטלי",
@@ -248,11 +253,12 @@
      "url": "https://www.zap.co.il/fs?pid=1471053657"
     }
    ],
-   "checked": "2026-11-18T17:47:04+00:00",
-   "error": null
+   "checked": "2026-11-18T17:55:10+00:00",
+   "error": null,
+   "in_stock": true
   },
   "1257068": {
-   "last_in_stock": "2026-11-18T17:47:07+00:00",
+   "last_in_stock": "2026-11-18T17:55:12+00:00",
    "since": "2026-11-18T17:47:07+00:00",
    "name": "PS5 Slim עם דיסק + FC 26",
    "type": "דיסק",
@@ -264,11 +270,12 @@
      "url": "https://www.zap.co.il/fs?pid=1211315550"
     }
    ],
-   "checked": "2026-11-18T17:47:07+00:00",
-   "error": null
+   "checked": "2026-11-18T17:55:12+00:00",
+   "error": null,
+   "in_stock": true
   },
   "1246900": {
-   "last_in_stock": "2026-11-18T17:47:09+00:00",
+   "last_in_stock": "2026-11-18T17:55:15+00:00",
    "since": "2026-11-18T17:47:09+00:00",
    "name": "PS5 Slim עם דיסק + Astro Bot",
    "type": "דיסק",
@@ -280,11 +287,12 @@
      "url": "https://www.zap.co.il/fs?pid=1274169202"
     }
    ],
-   "checked": "2026-11-18T17:47:09+00:00",
-   "error": null
+   "checked": "2026-11-18T17:55:15+00:00",
+   "error": null,
+   "in_stock": true
   },
   "1212378": {
-   "last_in_stock": "2026-11-18T17:47:12+00:00",
+   "last_in_stock": "2026-11-18T17:55:17+00:00",
    "since": "2026-11-18T17:47:12+00:00",
    "name": "PS5 Slim עם דיסק + Spider-Man 2",
    "type": "דיסק",
@@ -301,11 +309,12 @@
      "url": "https://www.zap.co.il/fs?pid=1471378944"
     }
    ],
-   "checked": "2026-11-18T17:47:12+00:00",
-   "error": null
+   "checked": "2026-11-18T17:55:17+00:00",
+   "error": null,
+   "in_stock": true
   },
   "1246933": {
-   "last_in_stock": "2026-11-18T17:47:14+00:00",
+   "last_in_stock": "2026-11-18T17:55:20+00:00",
    "since": "2026-11-18T17:47:14+00:00",
    "name": "PS5 Slim עם דיסק + 2 שלטים",
    "type": "דיסק",
@@ -322,11 +331,12 @@
      "url": "https://www.zap.co.il/fs?pid=1210613564"
     }
    ],
-   "checked": "2026-11-18T17:47:14+00:00",
-   "error": null
+   "checked": "2026-11-18T17:55:20+00:00",
+   "error": null,
+   "in_stock": true
   },
   "1212380": {
-   "last_in_stock": "2026-11-18T17:47:17+00:00",
+   "last_in_stock": "2026-11-18T17:55:22+00:00",
    "since": "2026-11-18T17:47:17+00:00",
    "name": "PS5 Slim עם דיסק + שלט נוסף ומטען",
    "type": "דיסק",
@@ -338,11 +348,12 @@
      "url": "https://www.zap.co.il/fs?pid=1261550534"
     }
    ],
-   "checked": "2026-11-18T17:47:17+00:00",
-   "error": null
+   "checked": "2026-11-18T17:55:22+00:00",
+   "error": null,
+   "in_stock": true
   },
   "1258425": {
-   "last_in_stock": "2026-11-18T17:47:19+00:00",
+   "last_in_stock": "2026-11-18T17:55:24+00:00",
    "since": "2026-11-18T17:47:19+00:00",
    "name": "PS5 Slim דיגיטלי + FC 26",
    "type": "דיגיטלי",
@@ -354,11 +365,148 @@
      "url": "https://www.zap.co.il/fs?pid=1440959207"
     }
    ],
-   "checked": "2026-11-18T17:47:19+00:00",
-   "error": null
+   "checked": "2026-11-18T17:55:24+00:00",
+   "error": null,
+   "in_stock": true
   }
  },
  "log": [
+  {
+   "time": "2026-11-18T17:55:49+00:00",
+   "model": "פלייסטישן 5 סלים SLIM החדש | קונסולת PS5 SLIM במהדורה דיגיטלית בנפח GB825 ושובר למשחק Marv (Roy Games)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "Roy Games"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:55:46+00:00",
+   "model": "פלייסטיישן 5 סלים PlayStation 5 Slim מהדורה דיגיטלית בעיצוב 30 שנה לפלייסטיישן (Roy Games)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "Roy Games"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:54:11+00:00",
+   "model": "Sony PlayStation 5 Slim 825GB Digital Edition CFI-2116B סוני (אנג'וי סטיק)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "אנג'וי סטיק"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:54:11+00:00",
+   "model": "Sony PlayStation 5 825GB Slim Digital Edition כולל שני שלטים . סוני דיגיטל סלים (אנג'וי סטיק)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "אנג'וי סטיק"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:54:11+00:00",
+   "model": "PlayStation 5 Pro Console – 30th Anniversary Limited Edition BundIe (אנג'וי סטיק)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "אנג'וי סטיק"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:54:02+00:00",
+   "model": "Sony PlayStation 5 Slim 1TB Blu-ray Edition CFI-2016 סוני כונן דיסקים (הייטק מובייל)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "הייטק מובייל"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:54:02+00:00",
+   "model": "Sony PlayStation 5 Pro 2TB סוני (הייטק מובייל)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "הייטק מובייל"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:54:02+00:00",
+   "model": "Sony PlayStation 5 825GB Digital Edition סוני – גרסה יפנית (הייטק מובייל)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "הייטק מובייל"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:54:02+00:00",
+   "model": "Sony PlayStation 5 Slim 825GB Digital Edition סוני (הייטק מובייל)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "הייטק מובייל"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:54:02+00:00",
+   "model": "Sony PlayStation 5 Slim 1TB Digital Edition CFI-2016 סוני (הייטק מובייל)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "הייטק מובייל"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:53:58+00:00",
+   "model": "קונסולת סוני Sony PlayStation 5 Slim 825GB Blu-ray Edition (Green Mobile)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "Green Mobile"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:53:58+00:00",
+   "model": "קונסולת Sony PlayStation 5 Slim Digital Edition עם בקר DualSense (Green Mobile)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "Green Mobile"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:53:58+00:00",
+   "model": "קונסולת Sony PlayStation 5 Slim Digital מהדורת 30 שנה 1TB (Green Mobile)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "Green Mobile"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:53:54+00:00",
+   "model": "Sony PlayStation 5 Slim 1TB Blu-ray Edition CFI-2000 CFI-2016 סוני (Cellfi)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "Cellfi"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:53:54+00:00",
+   "model": "Sony PlayStation 5 825GB Digital Edition סוני (Cellfi)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "Cellfi"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:53:54+00:00",
+   "model": "Sony PlayStation 5 Pro 2TB סוני (Cellfi)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "Cellfi"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:53:54+00:00",
+   "model": "Sony PlayStation 5 Pro 2TB סוני (Cellfi)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "Cellfi"
+   ]
+  },
   {
    "time": "2026-11-18T17:47:19+00:00",
    "model": "PS5 Slim דיגיטלי + FC 26",
@@ -489,5 +637,451 @@
    ]
   }
  ],
- "updated": "2026-11-18T17:47:21+00:00"
+ "updated": "2026-11-18T17:55:55+00:00",
+ "direct": {
+  "https://www.bug.co.il/brand/sony/playstation/5/slim/digital": {
+   "store": "באג",
+   "name": "קונסולה לבנה Playstation 5 Slim 1TB Digital פלייסטיישן 5 - Playstation - PS5 - באג",
+   "type": "דיגיטלי",
+   "price": 2199,
+   "url": "https://www.bug.co.il/brand/sony/playstation/5/slim/digital",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:27+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:50:47+00:00"
+  },
+  "https://www.bug.co.il/brand/sony/playstation/5/slim/fc26": {
+   "store": "באג",
+   "name": "קונסולה לבנה Playstation 5 Slim 1TB Blu-Ray+ קוד הורדה FC 26 פלייסטיישן 5 - Playstation - ",
+   "type": "דיסק",
+   "price": 2399,
+   "url": "https://www.bug.co.il/brand/sony/playstation/5/slim/fc26",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:29+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:50:49+00:00"
+  },
+  "https://www.ivory.co.il/catalog.php?id=156145": {
+   "store": "אייבורי",
+   "name": "סוני פלייסטיישן Sony PS5 Slim 1TB כונן דיסקים - אייבורי מחשבים וסלולר",
+   "type": "דיסק",
+   "price": 3590,
+   "url": "https://www.ivory.co.il/catalog.php?id=156145",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:32+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:50:53+00:00"
+  },
+  "https://www.drchip.co.il/items/7750167-sony-playstation-5-slim-1tb-blu-ray": {
+   "store": "ד\"ר צ'יפ",
+   "name": "PlayStation 5 Slim 1TB Blu-ray Edition Sony זמין במלאי!",
+   "type": "דיסק",
+   "price": 3999,
+   "url": "https://www.drchip.co.il/items/7750167-sony-playstation-5-slim-1tb-blu-ray",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:51+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:50:58+00:00"
+  },
+  "https://www.drchip.co.il/items/6483599-ps5-slim-digital-825gb": {
+   "store": "ד\"ר צ'יפ",
+   "name": "Sony PlayStation 5 825GB Digital Edition סוני יבואן רשמי!",
+   "type": "דיגיטלי",
+   "price": 3589,
+   "url": "https://www.drchip.co.il/items/6483599-ps5-slim-digital-825gb",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:51+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:50:58+00:00"
+  },
+  "https://www.drchip.co.il/items/7442677-ps5-pro-2tb-digital-white": {
+   "store": "ד\"ר צ'יפ",
+   "name": "קונסולה Sony PlayStation 5 Pro 2TB Digital Edition - צבע לבן יבואן רשמי!",
+   "type": "Pro",
+   "price": 6999,
+   "url": "https://www.drchip.co.il/items/7442677-ps5-pro-2tb-digital-white",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:51+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:50:58+00:00"
+  },
+  "https://www.drchip.co.il/items/6350975-https-www-drchip-co-il-179526-https-www-drchip-co-il-179526-D7-A7-D7-95-D7-A0-D7-A1-D7-95-D7-9C-D7-95-D7-AA-PS5": {
+   "store": "ד\"ר צ'יפ",
+   "name": "PlayStation 5 Slim 1TB Blu-ray Edition עם 2 שלטים יבואן רשמי Sony",
+   "type": "דיסק",
+   "price": 4389,
+   "url": "https://www.drchip.co.il/items/6350975-https-www-drchip-co-il-179526-https-www-drchip-co-il-179526-D7-A7-D7-95-D7-A0-D7-A1-D7-95-D7-9C-D7-95-D7-AA-PS5",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:51+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:50:58+00:00"
+  },
+  "https://www.drchip.co.il/items/6523806-https-www-drchip-co-il-179526-https-www-drchip-co-il-179526-D7-A7-D7-95-D7-A0-D7-A1-D7-95-D7-9C-D7-95-D7-AA-PS5": {
+   "store": "ד\"ר צ'יפ",
+   "name": "PlayStation 5 Slim 1TB Blu-ray Edition עם 2 שלטים יבואן רשמי +משחק Tekken 8 PS5",
+   "type": "דיסק",
+   "price": 4489,
+   "url": "https://www.drchip.co.il/items/6523806-https-www-drchip-co-il-179526-https-www-drchip-co-il-179526-D7-A7-D7-95-D7-A0-D7-A1-D7-95-D7-9C-D7-95-D7-AA-PS5",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:51+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:50:58+00:00"
+  },
+  "https://www.drchip.co.il/items/6420712-ps5-slim-mk1-bundle-2controllers": {
+   "store": "ד\"ר צ'יפ",
+   "name": "PlayStation 5 Slim 1TB Blu-ray Edition עם 2 שלטים יבואן רשמי Sony +משחק mortal kombat 1",
+   "type": "דיסק",
+   "price": 4489,
+   "url": "https://www.drchip.co.il/items/6420712-ps5-slim-mk1-bundle-2controllers",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:51+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:50:58+00:00"
+  },
+  "https://cellfi.co.il/product/sony-playstation-5-pro-2tb-%d7%a1%d7%95%d7%a0%d7%99/": {
+   "store": "Cellfi",
+   "name": "Sony PlayStation 5 Pro 2TB סוני",
+   "type": "Pro",
+   "price": 5999,
+   "url": "https://cellfi.co.il/product/sony-playstation-5-pro-2tb-%d7%a1%d7%95%d7%a0%d7%99/",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:36+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:36+00:00",
+   "since": "2026-11-18T17:53:54+00:00"
+  },
+  "https://cellfi.co.il/product/sony-playstation-5-pro-2tb-digital-edition-%d7%a1%d7%95%d7%a0%d7%99/": {
+   "store": "Cellfi",
+   "name": "Sony PlayStation 5 Pro 2TB סוני",
+   "type": "Pro",
+   "price": 5999,
+   "url": "https://cellfi.co.il/product/sony-playstation-5-pro-2tb-digital-edition-%d7%a1%d7%95%d7%a0%d7%99/",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:36+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:36+00:00",
+   "since": "2026-11-18T17:53:54+00:00"
+  },
+  "https://cellfi.co.il/product/sony-playstation-5-slim-1tb-digital-edition-cfi-2000-cfi-2016-%d7%a1%d7%95%d7%a0%d7%99/": {
+   "store": "Cellfi",
+   "name": "Sony PlayStation 5 825GB Digital Edition סוני",
+   "type": "דיגיטלי",
+   "price": 2930,
+   "url": "https://cellfi.co.il/product/sony-playstation-5-slim-1tb-digital-edition-cfi-2000-cfi-2016-%d7%a1%d7%95%d7%a0%d7%99/",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:36+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:36+00:00",
+   "since": "2026-11-18T17:53:54+00:00"
+  },
+  "https://cellfi.co.il/product/playstation5-slim-1tb-blue-ray-edition/": {
+   "store": "Cellfi",
+   "name": "Sony PlayStation 5 Slim 1TB Blu-ray Edition CFI-2000 CFI-2016 סוני",
+   "type": "דיסק",
+   "price": 3247,
+   "url": "https://cellfi.co.il/product/playstation5-slim-1tb-blue-ray-edition/",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:36+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:36+00:00",
+   "since": "2026-11-18T17:53:54+00:00"
+  },
+  "https://greenmobile.co.il/product/sony-playstation-5-digital-marvels-wolverine-limited-edition/": {
+   "store": "Green Mobile",
+   "name": "קונסולת Sony PlayStation 5 Digital 825GB – Marvel's Wolverine Limited Edition",
+   "type": "דיגיטלי",
+   "price": 3699,
+   "url": "https://greenmobile.co.il/product/sony-playstation-5-digital-marvels-wolverine-limited-edition/",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:39+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:53:58+00:00"
+  },
+  "https://greenmobile.co.il/product/sony-playstation-5-slim-30th-anniversary-digital-1tb/": {
+   "store": "Green Mobile",
+   "name": "קונסולת Sony PlayStation 5 Slim Digital מהדורת 30 שנה 1TB",
+   "type": "דיגיטלי",
+   "price": 4299,
+   "url": "https://greenmobile.co.il/product/sony-playstation-5-slim-30th-anniversary-digital-1tb/",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:39+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:39+00:00",
+   "since": "2026-11-18T17:53:58+00:00"
+  },
+  "https://greenmobile.co.il/product/%d7%a1%d7%95%d7%a0%d7%99-sony-playstation-5-825gb-digital-edition-%d7%99%d7%91%d7%95%d7%90%d7%9f-%d7%a8%d7%a9%d7%9e%d7%99-%d7%99%d7%a9%d7%a4%d7%90%d7%a8/": {
+   "store": "Green Mobile",
+   "name": "קונסולת Sony PlayStation 5 Slim Digital Edition עם בקר DualSense",
+   "type": "דיגיטלי",
+   "price": 3549,
+   "url": "https://greenmobile.co.il/product/%d7%a1%d7%95%d7%a0%d7%99-sony-playstation-5-825gb-digital-edition-%d7%99%d7%91%d7%95%d7%90%d7%9f-%d7%a8%d7%a9%d7%9e%d7%99-%d7%99%d7%a9%d7%a4%d7%90%d7%a8/",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:39+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:39+00:00",
+   "since": "2026-11-18T17:53:58+00:00"
+  },
+  "https://greenmobile.co.il/product/playstation-5-slim-1tb-blu-ray/": {
+   "store": "Green Mobile",
+   "name": "קונסולת סוני Sony PlayStation 5 Slim 825GB Blu-ray Edition",
+   "type": "דיסק",
+   "price": 3849,
+   "url": "https://greenmobile.co.il/product/playstation-5-slim-1tb-blu-ray/",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:39+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:39+00:00",
+   "since": "2026-11-18T17:53:58+00:00"
+  },
+  "https://www.itechmobile.co.il/product/sony-playstation-5-slim-1tb-digital-edition-cfi-2016/": {
+   "store": "הייטק מובייל",
+   "name": "Sony PlayStation 5 Slim 1TB Digital Edition CFI-2016 סוני",
+   "type": "דיגיטלי",
+   "price": 3348,
+   "url": "https://www.itechmobile.co.il/product/sony-playstation-5-slim-1tb-digital-edition-cfi-2016/",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:43+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:43+00:00",
+   "since": "2026-11-18T17:54:02+00:00"
+  },
+  "https://www.itechmobile.co.il/product/sony-playstation-5-slim-digital-edition-825gb/": {
+   "store": "הייטק מובייל",
+   "name": "Sony PlayStation 5 Slim 825GB Digital Edition סוני",
+   "type": "דיגיטלי",
+   "price": 2900,
+   "url": "https://www.itechmobile.co.il/product/sony-playstation-5-slim-digital-edition-825gb/",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:43+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:43+00:00",
+   "since": "2026-11-18T17:54:02+00:00"
+  },
+  "https://www.itechmobile.co.il/product/sony-playstation-5-slim-825gb-digital-edition/": {
+   "store": "הייטק מובייל",
+   "name": "Sony PlayStation 5 825GB Digital Edition סוני – גרסה יפנית",
+   "type": "דיגיטלי",
+   "price": 1999,
+   "url": "https://www.itechmobile.co.il/product/sony-playstation-5-slim-825gb-digital-edition/",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:43+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:43+00:00",
+   "since": "2026-11-18T17:54:02+00:00"
+  },
+  "https://www.itechmobile.co.il/product/sony-playstation-5-pro-gaming-console-2tb/": {
+   "store": "הייטק מובייל",
+   "name": "Sony PlayStation 5 Pro 2TB סוני",
+   "type": "Pro",
+   "price": 6089,
+   "url": "https://www.itechmobile.co.il/product/sony-playstation-5-pro-gaming-console-2tb/",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:43+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:43+00:00",
+   "since": "2026-11-18T17:54:02+00:00"
+  },
+  "https://www.itechmobile.co.il/product/sony-playstation-5-slim-1tb-blu-ray-edition-cfi-2016-%d7%a1%d7%95%d7%a0%d7%99-%d7%9b%d7%95%d7%a0%d7%9f-%d7%93%d7%99%d7%a1%d7%a7%d7%99%d7%9d-%d7%99%d7%91%d7%95%d7%90%d7%9f-%d7%a8%d7%a9%d7%9e%d7%99/": {
+   "store": "הייטק מובייל",
+   "name": "Sony PlayStation 5 Slim 1TB Blu-ray Edition CFI-2016 סוני כונן דיסקים",
+   "type": "דיסק",
+   "price": 3800,
+   "url": "https://www.itechmobile.co.il/product/sony-playstation-5-slim-1tb-blu-ray-edition-cfi-2016-%d7%a1%d7%95%d7%a0%d7%99-%d7%9b%d7%95%d7%a0%d7%9f-%d7%93%d7%99%d7%a1%d7%a7%d7%99%d7%9d-%d7%99%d7%91%d7%95%d7%90%d7%9f-%d7%a8%d7%a9%d7%9e%d7%99/",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:43+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:43+00:00",
+   "since": "2026-11-18T17:54:02+00:00"
+  },
+  "https://www.enjoystick.co.il/items/7412752-PlayStation-5-Pro-Console-30th-Anniversary-Limited-Edition-BundIe-Sony-": {
+   "store": "אנג'וי סטיק",
+   "name": "PlayStation 5 Pro Console – 30th Anniversary Limited Edition BundIe",
+   "type": "Pro",
+   "price": 19999,
+   "url": "https://www.enjoystick.co.il/items/7412752-PlayStation-5-Pro-Console-30th-Anniversary-Limited-Edition-BundIe-Sony-",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:53+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:53+00:00",
+   "since": "2026-11-18T17:54:11+00:00"
+  },
+  "https://www.enjoystick.co.il/items/9546796-Sony-PlayStation-5-1TB-Slim-Blu-ray-Edition-%D7%9E%D7%90%D7%A8%D7%96-%D7%94%D7%9B%D7%95%D7%9C%D7%9C-%D7%A9%D7%9C%D7%95%D7%A9%D7%94-%D7%9E%D7%A9%D7%97%D7%A7%D7%99%D7%9D-": {
+   "store": "אנג'וי סטיק",
+   "name": "Sony PlayStation 5 1TB Slim Blu-ray Edition מארז הכולל שלושה משחקים",
+   "type": "דיסק",
+   "price": 4499,
+   "url": "https://www.enjoystick.co.il/items/9546796-Sony-PlayStation-5-1TB-Slim-Blu-ray-Edition-%D7%9E%D7%90%D7%A8%D7%96-%D7%94%D7%9B%D7%95%D7%9C%D7%9C-%D7%A9%D7%9C%D7%95%D7%A9%D7%94-%D7%9E%D7%A9%D7%97%D7%A7%D7%99%D7%9D-",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:53+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:54:11+00:00"
+  },
+  "https://www.enjoystick.co.il/items/6430270-Sony-PlayStation-5-1TB-Slim-Blu-ray-2-Controllers-FC-27-": {
+   "store": "אנג'וי סטיק",
+   "name": "Sony PlayStation 5 1TB Slim Blu-ray + 2 Controllers + FC 27",
+   "type": "דיסק",
+   "price": 4499,
+   "url": "https://www.enjoystick.co.il/items/6430270-Sony-PlayStation-5-1TB-Slim-Blu-ray-2-Controllers-FC-27-",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:53+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:54:11+00:00"
+  },
+  "https://www.enjoystick.co.il/items/6691149-Sony-PlayStation-5-825GB-Slim-Digital-Edition-%D7%9B%D7%95%D7%9C%D7%9C-%D7%A9%D7%A0%D7%99-%D7%A9%D7%9C%D7%98%D7%99%D7%9D-%D7%A1%D7%95%D7%A0%D7%99-%D7%93%D7%99%D7%92%D7%99%D7%98%D7%9C-%D7%A1%D7%9C%D7%99%D7%9D-": {
+   "store": "אנג'וי סטיק",
+   "name": "Sony PlayStation 5 825GB Slim Digital Edition כולל שני שלטים . סוני דיגיטל סלים",
+   "type": "דיגיטלי",
+   "price": 3499,
+   "url": "https://www.enjoystick.co.il/items/6691149-Sony-PlayStation-5-825GB-Slim-Digital-Edition-%D7%9B%D7%95%D7%9C%D7%9C-%D7%A9%D7%A0%D7%99-%D7%A9%D7%9C%D7%98%D7%99%D7%9D-%D7%A1%D7%95%D7%A0%D7%99-%D7%93%D7%99%D7%92%D7%99%D7%98%D7%9C-%D7%A1%D7%9C%D7%99%D7%9D-",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:53+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:53+00:00",
+   "since": "2026-11-18T17:54:11+00:00"
+  },
+  "https://www.enjoystick.co.il/items/6416473-Sony-PlayStation-5-1TB-Slim-Blu-ray-Edition-": {
+   "store": "אנג'וי סטיק",
+   "name": "Sony PlayStation 5 1TB Slim Blu-ray Edition",
+   "type": "דיסק",
+   "price": 3599,
+   "url": "https://www.enjoystick.co.il/items/6416473-Sony-PlayStation-5-1TB-Slim-Blu-ray-Edition-",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:53+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:54:11+00:00"
+  },
+  "https://www.enjoystick.co.il/items/9007747-Sony-PlayStation-5-Slim-825GB-Digital-Edition-CFI-2116B-%D7%A1%D7%95%D7%A0%D7%99": {
+   "store": "אנג'וי סטיק",
+   "name": "Sony PlayStation 5 Slim 825GB Digital Edition CFI-2116B סוני",
+   "type": "דיגיטלי",
+   "price": 3199,
+   "url": "https://www.enjoystick.co.il/items/9007747-Sony-PlayStation-5-Slim-825GB-Digital-Edition-CFI-2116B-%D7%A1%D7%95%D7%A0%D7%99",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:53+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:53+00:00",
+   "since": "2026-11-18T17:54:11+00:00"
+  },
+  "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-playstation-5-slim-%d7%9e%d7%94%d7%93%d7%95%d7%a8%d7%94-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99%d7%aa-%d7%91/": {
+   "store": "Roy Games",
+   "name": "פלייסטיישן 5 סלים PlayStation 5 Slim מהדורה דיגיטלית בעיצוב 30 שנה לפלייסטיישן",
+   "type": "דיגיטלי",
+   "price": 6999,
+   "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-playstation-5-slim-%d7%9e%d7%94%d7%93%d7%95%d7%a8%d7%94-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99%d7%aa-%d7%91/",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:46+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:46+00:00",
+   "since": "2026-11-18T17:55:46+00:00"
+  },
+  "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9playstation-5-%d7%a7%d7%95%d7%a0%d7%a1%d7%95%d7%9c%d7%94-%d7%91%d7%9c%d7%95-%d7%a8%d7%99/": {
+   "store": "Roy Games",
+   "name": "פלייסטישן 5 סלים SLIM החדש|PlayStation 5 קונסולה בלו-ריי + קוד למשחק Ghost of Yōtei מהדורה",
+   "type": "דיסק",
+   "price": 6000,
+   "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9playstation-5-%d7%a7%d7%95%d7%a0%d7%a1%d7%95%d7%9c%d7%94-%d7%91%d7%9c%d7%95-%d7%a8%d7%99/",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:49+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:55:46+00:00"
+  },
+  "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%99%d7%a9%d7%9f-5-%d7%a4%d7%a8%d7%95-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99-playstation-5-pro-digital-%d7%99%d7%91%d7%95%d7%90%d7%9f-%d7%a8%d7%a9-2/": {
+   "store": "Roy Games",
+   "name": "פלייסטיישן 5 פרו דיגיטלי | Playstation 5 Pro Digital  יבואן רשמי ישפאר",
+   "type": "Pro",
+   "price": 5000,
+   "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%99%d7%a9%d7%9f-5-%d7%a4%d7%a8%d7%95-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99-playstation-5-pro-digital-%d7%99%d7%91%d7%95%d7%90%d7%9f-%d7%a8%d7%a9-2/",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:46+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:55:46+00:00"
+  },
+  "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%99%d7%a9%d7%9f-5-%d7%a4%d7%a8%d7%95-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99-playstation-5-pro-digital-%d7%99%d7%91%d7%95%d7%90%d7%9f-%d7%a8%d7%a9/": {
+   "store": "Roy Games",
+   "name": "פלייסטיישן 5 פרו דיגיטלי | Playstation 5 Pro Digital  יבואן רשמי ישפאר + כונן נפרד",
+   "type": "Pro",
+   "price": 6000,
+   "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%99%d7%a9%d7%9f-5-%d7%a4%d7%a8%d7%95-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99-playstation-5-pro-digital-%d7%99%d7%91%d7%95%d7%90%d7%9f-%d7%a8%d7%a9/",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:46+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:55:46+00:00"
+  },
+  "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9-playstation-5-cfi-2016a-slim-%d7%9b%d7%95%d7%a0%d7%9f-%d7%91%d7%9c%d7%95-%d7%a8%d7%99-5/": {
+   "store": "Roy Games",
+   "name": "פלייסטישן 5 סלים SLIM החדש| Playstation 5 CFI-2016A-SLIM כונן בלו ריי יבואן רשמי ישפאר+ של",
+   "type": "דיסק",
+   "price": 4150,
+   "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9-playstation-5-cfi-2016a-slim-%d7%9b%d7%95%d7%a0%d7%9f-%d7%91%d7%9c%d7%95-%d7%a8%d7%99-5/",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:49+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:55:46+00:00"
+  },
+  "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9-playstation-5-cfi-2016a-slim-%d7%9b%d7%95%d7%a0%d7%9f-%d7%91%d7%9c%d7%95-%d7%a8%d7%99-4/": {
+   "store": "Roy Games",
+   "name": "פלייסטישן 5 סלים SLIM החדש| Playstation 5 CFI-2016A-SLIM כונן בלו ריי יבואן רשמי ישפאר+ של",
+   "type": "דיסק",
+   "price": 3999,
+   "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9-playstation-5-cfi-2016a-slim-%d7%9b%d7%95%d7%a0%d7%9f-%d7%91%d7%9c%d7%95-%d7%a8%d7%99-4/",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:49+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:55:46+00:00"
+  },
+  "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9-playstation-5-slim-%d7%9b%d7%95%d7%a0%d7%9f-%d7%91%d7%9c%d7%95-%d7%a8%d7%99/": {
+   "store": "Roy Games",
+   "name": "פלייסטישן 5 סלים SLIM החדש| Playstation 5 SLIM כונן בלו ריי יבואן רשמי ישפאר",
+   "type": "דיסק",
+   "price": 3700,
+   "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9-playstation-5-slim-%d7%9b%d7%95%d7%a0%d7%9f-%d7%91%d7%9c%d7%95-%d7%a8%d7%99/",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:49+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:55:46+00:00"
+  },
+  "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9-%d7%a7%d7%95%d7%a0%d7%a1%d7%95%d7%9c%d7%aa-ps5-slim-%d7%91%d7%9e%d7%94%d7%93%d7%95/": {
+   "store": "Roy Games",
+   "name": "פלייסטישן 5 סלים SLIM החדש | קונסולת PS5 SLIM במהדורה דיגיטלית בנפח GB825 ושובר למשחק Marv",
+   "type": "דיגיטלי",
+   "price": 6999,
+   "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9-%d7%a7%d7%95%d7%a0%d7%a1%d7%95%d7%9c%d7%aa-ps5-slim-%d7%91%d7%9e%d7%94%d7%93%d7%95/",
+   "in_stock": true,
+   "checked": "2026-11-18T17:55:49+00:00",
+   "error": null,
+   "last_in_stock": "2026-11-18T17:55:49+00:00",
+   "since": "2026-11-18T17:55:49+00:00"
+  },
+  "https://roy-games.co.il/product/%d7%a7%d7%95%d7%a0%d7%a1%d7%95%d7%9c%d7%aa-%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-slim-825gb-digital-edition/": {
+   "store": "Roy Games",
+   "name": "קונסולת פלייסטישן 5  Slim 825GB Digital Edition",
+   "type": "דיגיטלי",
+   "price": 3000,
+   "url": "https://roy-games.co.il/product/%d7%a7%d7%95%d7%a0%d7%a1%d7%95%d7%9c%d7%aa-%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-slim-825gb-digital-edition/",
+   "in_stock": false,
+   "checked": "2026-11-18T17:55:49+00:00",
+   "error": null,
+   "last_in_stock": null,
+   "since": "2026-11-18T17:55:49+00:00"
+  }
+ }
 }

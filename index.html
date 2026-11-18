@@ -38,9 +38,11 @@ td,th{padding:8px;border-top:1px solid var(--line);text-align:start;vertical-ali
 <p class="sub" id="updated">טוען…</p>
 <div class="filters" id="filters"></div>
 <div class="grid" id="grid"></div>
+<h3>בדיקה ישירה באתרי החנויות</h3>
+<div class="wrap"><table><thead><tr><th>חנות</th><th>מוצר</th><th>מצב</th><th>מחיר</th><th>היה במלאי לאחרונה</th></tr></thead><tbody id="direct"></tbody></table></div>
 <h3>יומן מלאי</h3>
 <div class="wrap"><table><thead><tr><th>זמן</th><th>דגם</th><th>מה קרה</th><th>חנויות</th></tr></thead><tbody id="log"></tbody></table></div>
-<p class="meta">הנתונים נבדקים אוטומטית כל 10 דקות לפי החנויות שמציעות את הדגם בזאפ ובאתרי החנויות. מומלץ לוודא מלאי באתר החנות לפני קנייה.</p>
+<p class="meta">הנתונים נבדקים אוטומטית כל 10 דקות: בזאפ (אילו חנויות מציעות כל דגם) וישירות באתרי באג, אייבורי, ד"ר צ'יפ, אנג'וי סטיק, Cellfi, Green Mobile, הייטק מובייל ו-Roy Games. KSP, מחסני חשמל, שקם אלקטריק ו-Payngo חוסמים בדיקה אוטומטית. מומלץ לוודא מלאי באתר החנות לפני קנייה.</p>
 </main>
 <script>
 const fmt = t => t ? new Date(t).toLocaleString('he-IL', {timeZone: 'Asia/Jerusalem', dateStyle: 'short', timeStyle: 'short'}) : 'אף פעם (מאז שהמעקב התחיל)';
@@ -49,7 +51,7 @@ let data, filter = 'הכל';
 function render() {
   const models = Object.values(data.models)
     .filter(m => filter === 'הכל' || m.type === filter)
-    .sort((a, b) => (b.stores?.length > 0) - (a.stores?.length > 0));
+    .sort((a, b) => (b.stores?.length || 0) - (a.stores?.length || 0));
   document.getElementById('grid').innerHTML = models.map(m => {
     const n = m.stores?.length || 0;
     return `<div class="card"><h2>${esc(m.name)}<span class="type">${esc(m.type)}</span></h2>
@@ -59,6 +61,14 @@ function render() {
       <ul>${(m.stores || []).map(s => `<li><a href="${esc(s.url || m.zap)}" target="_blank" rel="noopener nofollow">${esc(s.store)}</a><span>${s.price ? '₪' + s.price.toLocaleString('he-IL') : ''}</span></li>`).join('')}</ul>
       ${m.zap ? `<p class="meta"><a href="${esc(m.zap)}" target="_blank" rel="noopener">השוואת מחירים בזאפ</a></p>` : ''}</div>`;
   }).join('');
+  const direct = Object.values(data.direct || {})
+    .filter(r => r.name && (filter === 'הכל' || r.type === filter))
+    .sort((a, b) => (b.in_stock === true) - (a.in_stock === true) || a.store.localeCompare(b.store, 'he'));
+  document.getElementById('direct').innerHTML = direct.map(r => `<tr>
+    <td>${esc(r.store)}</td><td><a href="${esc(r.url)}" target="_blank" rel="noopener nofollow">${esc(r.name)}</a></td>
+    <td>${r.error ? '<span class="err">שגיאה בבדיקה</span>' : `<span class="badge ${r.in_stock ? 'yes' : 'no'}">${r.in_stock ? 'במלאי' : 'אין מלאי'}</span>`}</td>
+    <td>${r.price ? '₪' + r.price.toLocaleString('he-IL') : ''}</td>
+    <td>${r.in_stock ? 'עכשיו' : fmt(r.last_in_stock)}</td></tr>`).join('');
   document.getElementById('filters').innerHTML = ['הכל', 'דיסק', 'דיגיטלי', 'Pro'].map(f =>
     `<button aria-pressed="${f === filter}" onclick="filter='${f}';render()">${f}</button>`).join('');
 }
