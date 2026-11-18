@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>מלאי PS5 בישראל</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--text:#14171c;--muted:#5c6470;--line:#e3e6ea;--yes:#0f7b3d;--yes-bg:#e3f6ea;--no:#a32222;--no-bg:#fbe7e7;--accent:#0050d8}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1115;--card:#181b21;--text:#e8eaee;--muted:#9aa2ad;--line:#2a2f37;--yes:#5fd38d;--yes-bg:#123222;--no:#ff8a8a;--no-bg:#3a1717;--accent:#7aa7ff}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 system-ui,"Segoe UI",Arial,sans-serif}
+main{max-width:1000px;margin:auto;padding:24px 16px 48px}
+h1{margin:0 0 4px;font-size:28px}
+.sub{color:var(--muted);margin:0 0 20px}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+.filters button{border:1px solid var(--line);background:var(--card);color:var(--text);padding:6px 14px;border-radius:999px;cursor:pointer;font:inherit}
+.filters button[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}
+.card h2{font-size:17px;margin:0 0 8px}
+.badge{display:inline-block;padding:2px 10px;border-radius:999px;font-weight:600;font-size:14px}
+.yes{background:var(--yes-bg);color:var(--yes)}.no{background:var(--no-bg);color:var(--no)}
+.type{color:var(--muted);font-size:13px;margin-inline-start:6px}
+.meta{color:var(--muted);font-size:14px;margin:8px 0 0}
+ul{list-style:none;padding:0;margin:10px 0 0}
+li{display:flex;justify-content:space-between;gap:8px;padding:4px 0;border-top:1px solid var(--line);font-size:15px}
+a{color:var(--accent)}
+.err{color:var(--no);font-size:13px}
+h3{margin:32px 0 8px}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:14px}
+td,th{padding:8px;border-top:1px solid var(--line);text-align:start;vertical-align:top}
+.wrap{overflow-x:auto}
+</style>
+</head>
+<body>
+<main>
+<h1>מלאי PS5 בישראל</h1>
+<p class="sub" id="updated">טוען…</p>
+<div class="filters" id="filters"></div>
+<div class="grid" id="grid"></div>
+<h3>יומן מלאי</h3>
+<div class="wrap"><table><thead><tr><th>זמן</th><th>דגם</th><th>מה קרה</th><th>חנויות</th></tr></thead><tbody id="log"></tbody></table></div>
+<p class="meta">הנתונים נבדקים אוטומטית כל 10 דקות לפי החנויות שמציעות את הדגם בזאפ ובאתרי החנויות. מומלץ לוודא מלאי באתר החנות לפני קנייה.</p>
+</main>
+<script>
+const fmt = t => t ? new Date(t).toLocaleString('he-IL', {timeZone: 'Asia/Jerusalem', dateStyle: 'short', timeStyle: 'short'}) : 'אף פעם (מאז שהמעקב התחיל)';
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let data, filter = 'הכל';
+function render() {
+  const models = Object.values(data.models)
+    .filter(m => filter === 'הכל' || m.type === filter)
+    .sort((a, b) => (b.stores?.length > 0) - (a.stores?.length > 0));
+  document.getElementById('grid').innerHTML = models.map(m => {
+    const n = m.stores?.length || 0;
+    return `<div class="card"><h2>${esc(m.name)}<span class="type">${esc(m.type)}</span></h2>
+      <span class="badge ${n ? 'yes' : 'no'}">${n ? `במלאי ב-${n} חנויות` : 'אין מלאי'}</span>
+      <p class="meta">${n ? 'במלאי מאז: ' + fmt(m.since) : 'היה במלאי לאחרונה: ' + fmt(m.last_in_stock)}</p>
+      ${m.error ? `<p class="err">שגיאה בבדיקה האחרונה, מוצג המידע הקודם</p>` : ''}
+      <ul>${(m.stores || []).map(s => `<li><a href="${esc(s.url || m.zap)}" target="_blank" rel="noopener nofollow">${esc(s.store)}</a><span>${s.price ? '₪' + s.price.toLocaleString('he-IL') : ''}</span></li>`).join('')}</ul>
+      ${m.zap ? `<p class="meta"><a href="${esc(m.zap)}" target="_blank" rel="noopener">השוואת מחירים בזאפ</a></p>` : ''}</div>`;
+  }).join('');
+  document.getElementById('filters').innerHTML = ['הכל', 'דיסק', 'דיגיטלי', 'Pro'].map(f =>
+    `<button aria-pressed="${f === filter}" onclick="filter='${f}';render()">${f}</button>`).join('');
+}
+fetch('data.json?' + Date.now()).then(r => r.json()).then(d => {
+  data = d;
+  document.getElementById('updated').textContent = 'עודכן לאחרונה: ' + fmt(d.updated) + ' · מתעדכן כל 10 דקות';
+  document.getElementById('log').innerHTML = d.log.slice(0, 100).map(e =>
+    `<tr><td>${fmt(e.time)}</td><td>${esc(e.model)}</td><td><span class="badge ${e.event === 'נכנס למלאי' ? 'yes' : 'no'}">${esc(e.event)}</span></td><td>${esc(e.stores.join(', '))}</td></tr>`).join('') || '<tr><td colspan="4">עוד אין שינויים</td></tr>';
+  render();
+}).catch(() => document.getElementById('updated').textContent = 'שגיאה בטעינת הנתונים');
+</script>
+</body>
+</html>

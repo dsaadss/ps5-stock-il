@@ -1,0 +1,493 @@
+{
+ "models": {
+  "1212371": {
+   "last_in_stock": "2026-11-18T17:46:52+00:00",
+   "since": "2026-11-18T17:46:52+00:00",
+   "name": "PS5 Slim 1TB עם דיסק",
+   "type": "דיסק",
+   "zap": "https://www.zap.co.il/model.aspx?modelid=1212371",
+   "stores": [
+    {
+     "store": "Best Cell Celular",
+     "price": 3200,
+     "url": "https://www.zap.co.il/fs?pid=1472697430"
+    },
+    {
+     "store": "סלפי",
+     "price": 3247,
+     "url": "https://www.zap.co.il/fs?pid=1470368669"
+    },
+    {
+     "store": "הייטק מובייל",
+     "price": 3249,
+     "url": "https://www.zap.co.il/fs?pid=1472517301"
+    },
+    {
+     "store": "טאצ' סטור",
+     "price": 3249,
+     "url": "https://www.zap.co.il/fs?pid=1472593649"
+    },
+    {
+     "store": "מחסני הסלולר",
+     "price": 3290,
+     "url": "https://www.zap.co.il/fs?pid=1467656056"
+    },
+    {
+     "store": "גיים מובייל",
+     "price": 3499,
+     "url": "https://www.zap.co.il/fs?pid=1214479669"
+    },
+    {
+     "store": "אנג'וי סטיק",
+     "price": 3599,
+     "url": "https://www.zap.co.il/fs?pid=1472593644"
+    },
+    {
+     "store": "ג'נסיס",
+     "price": 3849,
+     "url": "https://www.zap.co.il/fs?pid=1470121072"
+    },
+    {
+     "store": "דוקטור צ'יפ",
+     "price": 3999,
+     "url": "https://www.zap.co.il/fs?pid=1464666902"
+    }
+   ],
+   "checked": "2026-11-18T17:46:52+00:00",
+   "error": null
+  },
+  "1212373": {
+   "last_in_stock": "2026-11-18T17:46:55+00:00",
+   "since": "2026-11-18T17:46:55+00:00",
+   "name": "PS5 Slim 1TB דיגיטלי",
+   "type": "דיגיטלי",
+   "zap": "https://www.zap.co.il/model.aspx?modelid=1212373",
+   "stores": [
+    {
+     "store": "Best Cell Celular",
+     "price": 3250,
+     "url": "https://www.zap.co.il/fs?pid=1471940416"
+    },
+    {
+     "store": "הייטק מובייל",
+     "price": 3348,
+     "url": "https://www.zap.co.il/fs?pid=1472517304"
+    },
+    {
+     "store": "Green Mobile",
+     "price": 4299,
+     "url": "https://www.zap.co.il/fs?pid=1464111264"
+    }
+   ],
+   "checked": "2026-11-18T17:46:55+00:00",
+   "error": null
+  },
+  "1236321": {
+   "last_in_stock": "2026-11-18T17:46:57+00:00",
+   "since": "2026-11-18T17:46:57+00:00",
+   "name": "PS5 Pro 2TB",
+   "type": "Pro",
+   "zap": "https://www.zap.co.il/model.aspx?modelid=1236321",
+   "stores": [
+    {
+     "store": "רשת GoMobile",
+     "price": 3999,
+     "url": "https://www.zap.co.il/fs?pid=1471940422"
+    },
+    {
+     "store": "רשת GoMobile",
+     "price": 4699,
+     "url": "https://www.zap.co.il/fs?pid=1470260379"
+    },
+    {
+     "store": "גלובל סלולר",
+     "price": 5300,
+     "url": "https://www.zap.co.il/fs?pid=1471940408"
+    },
+    {
+     "store": "נקסטק",
+     "price": 5995,
+     "url": "https://www.zap.co.il/fs?pid=1471774627"
+    },
+    {
+     "store": "סלפי",
+     "price": 5999,
+     "url": "https://www.zap.co.il/fs?pid=1472593645"
+    },
+    {
+     "store": "הייטק מובייל",
+     "price": 6089,
+     "url": "https://www.zap.co.il/fs?pid=1472517305"
+    },
+    {
+     "store": "מובייל לנד",
+     "price": 6097,
+     "url": "https://www.zap.co.il/fs?pid=1472221440"
+    },
+    {
+     "store": "Best Cell Celular",
+     "price": 6098,
+     "url": "https://www.zap.co.il/fs?pid=1471940415"
+    },
+    {
+     "store": "מחסני הסלולר",
+     "price": 6189,
+     "url": "https://www.zap.co.il/fs?pid=1467524051"
+    },
+    {
+     "store": "ג'נסיס",
+     "price": 6499,
+     "url": "https://www.zap.co.il/fs?pid=1440959213"
+    },
+    {
+     "store": "גיים מובייל",
+     "price": 6999,
+     "url": "https://www.zap.co.il/fs?pid=1452308089"
+    },
+    {
+     "store": "דוקטור צ'יפ",
+     "price": 6999,
+     "url": "https://www.zap.co.il/fs?pid=1472058373"
+    },
+    {
+     "store": "אנג'וי סטיק",
+     "price": 6999,
+     "url": "https://www.zap.co.il/fs?pid=1471378945"
+    }
+   ],
+   "checked": "2026-11-18T17:46:57+00:00",
+   "error": null
+  },
+  "1259070": {
+   "last_in_stock": "2026-11-18T17:47:00+00:00",
+   "since": "2026-11-18T17:47:00+00:00",
+   "name": "PS5 Pro 2TB + FC 26",
+   "type": "Pro",
+   "zap": "https://www.zap.co.il/model.aspx?modelid=1259070",
+   "stores": [
+    {
+     "store": "ג'נסיס",
+     "price": 6749,
+     "url": "https://www.zap.co.il/fs?pid=1440959205"
+    }
+   ],
+   "checked": "2026-11-18T17:47:00+00:00",
+   "error": null
+  },
+  "943747": {
+   "last_in_stock": "2026-11-18T17:47:02+00:00",
+   "since": "2026-11-18T17:47:02+00:00",
+   "name": "PS5 825GB עם דיסק (דגם ישן)",
+   "type": "דיסק",
+   "zap": "https://www.zap.co.il/model.aspx?modelid=943747",
+   "stores": [
+    {
+     "store": "ג'נסיס",
+     "price": 3694,
+     "url": "https://www.zap.co.il/fs?pid=1440959198"
+    }
+   ],
+   "checked": "2026-11-18T17:47:02+00:00",
+   "error": null
+  },
+  "1096042": {
+   "last_in_stock": "2026-11-18T17:47:04+00:00",
+   "since": "2026-11-18T17:47:04+00:00",
+   "name": "PS5 825GB דיגיטלי (דגם ישן)",
+   "type": "דיגיטלי",
+   "zap": "https://www.zap.co.il/model.aspx?modelid=1096042",
+   "stores": [
+    {
+     "store": "רשת GoMobile",
+     "price": 2489,
+     "url": "https://www.zap.co.il/fs?pid=1471940423"
+    },
+    {
+     "store": "הייטק מובייל",
+     "price": 2900,
+     "url": "https://www.zap.co.il/fs?pid=1472517302"
+    },
+    {
+     "store": "רשת GoMobile",
+     "price": 2909,
+     "url": "https://www.zap.co.il/fs?pid=1471855842"
+    },
+    {
+     "store": "סלפי",
+     "price": 2930,
+     "url": "https://www.zap.co.il/fs?pid=1470368670"
+    },
+    {
+     "store": "Best Cell Celular",
+     "price": 2999,
+     "url": "https://www.zap.co.il/fs?pid=1472593640"
+    },
+    {
+     "store": "אנג'וי סטיק",
+     "price": 3199,
+     "url": "https://www.zap.co.il/fs?pid=1471378943"
+    },
+    {
+     "store": "ג'נסיס",
+     "price": 3499,
+     "url": "https://www.zap.co.il/fs?pid=1440959204"
+    },
+    {
+     "store": "גיים מובייל",
+     "price": 3499,
+     "url": "https://www.zap.co.il/fs?pid=1214479668"
+    },
+    {
+     "store": "דוקטור צ'יפ",
+     "price": 3589,
+     "url": "https://www.zap.co.il/fs?pid=1434183540"
+    },
+    {
+     "store": "iTechstore",
+     "price": 3799,
+     "url": "https://www.zap.co.il/fs?pid=1471053657"
+    }
+   ],
+   "checked": "2026-11-18T17:47:04+00:00",
+   "error": null
+  },
+  "1257068": {
+   "last_in_stock": "2026-11-18T17:47:07+00:00",
+   "since": "2026-11-18T17:47:07+00:00",
+   "name": "PS5 Slim עם דיסק + FC 26",
+   "type": "דיסק",
+   "zap": "https://www.zap.co.il/model.aspx?modelid=1257068",
+   "stores": [
+    {
+     "store": "ג'נסיס",
+     "price": 4199,
+     "url": "https://www.zap.co.il/fs?pid=1211315550"
+    }
+   ],
+   "checked": "2026-11-18T17:47:07+00:00",
+   "error": null
+  },
+  "1246900": {
+   "last_in_stock": "2026-11-18T17:47:09+00:00",
+   "since": "2026-11-18T17:47:09+00:00",
+   "name": "PS5 Slim עם דיסק + Astro Bot",
+   "type": "דיסק",
+   "zap": "https://www.zap.co.il/model.aspx?modelid=1246900",
+   "stores": [
+    {
+     "store": "גיים מובייל",
+     "price": 3669,
+     "url": "https://www.zap.co.il/fs?pid=1274169202"
+    }
+   ],
+   "checked": "2026-11-18T17:47:09+00:00",
+   "error": null
+  },
+  "1212378": {
+   "last_in_stock": "2026-11-18T17:47:12+00:00",
+   "since": "2026-11-18T17:47:12+00:00",
+   "name": "PS5 Slim עם דיסק + Spider-Man 2",
+   "type": "דיסק",
+   "zap": "https://www.zap.co.il/model.aspx?modelid=1212378",
+   "stores": [
+    {
+     "store": "גיים מובייל",
+     "price": 3649,
+     "url": "https://www.zap.co.il/fs?pid=1214479678"
+    },
+    {
+     "store": "אנג'וי סטיק",
+     "price": 4499,
+     "url": "https://www.zap.co.il/fs?pid=1471378944"
+    }
+   ],
+   "checked": "2026-11-18T17:47:12+00:00",
+   "error": null
+  },
+  "1246933": {
+   "last_in_stock": "2026-11-18T17:47:14+00:00",
+   "since": "2026-11-18T17:47:14+00:00",
+   "name": "PS5 Slim עם דיסק + 2 שלטים",
+   "type": "דיסק",
+   "zap": "https://www.zap.co.il/model.aspx?modelid=1246933",
+   "stores": [
+    {
+     "store": "גיים מובייל",
+     "price": 3749,
+     "url": "https://www.zap.co.il/fs?pid=1261550533"
+    },
+    {
+     "store": "דוקטור צ'יפ",
+     "price": 4389,
+     "url": "https://www.zap.co.il/fs?pid=1210613564"
+    }
+   ],
+   "checked": "2026-11-18T17:47:14+00:00",
+   "error": null
+  },
+  "1212380": {
+   "last_in_stock": "2026-11-18T17:47:17+00:00",
+   "since": "2026-11-18T17:47:17+00:00",
+   "name": "PS5 Slim עם דיסק + שלט נוסף ומטען",
+   "type": "דיסק",
+   "zap": "https://www.zap.co.il/model.aspx?modelid=1212380",
+   "stores": [
+    {
+     "store": "גיים מובייל",
+     "price": 3829,
+     "url": "https://www.zap.co.il/fs?pid=1261550534"
+    }
+   ],
+   "checked": "2026-11-18T17:47:17+00:00",
+   "error": null
+  },
+  "1258425": {
+   "last_in_stock": "2026-11-18T17:47:19+00:00",
+   "since": "2026-11-18T17:47:19+00:00",
+   "name": "PS5 Slim דיגיטלי + FC 26",
+   "type": "דיגיטלי",
+   "zap": "https://www.zap.co.il/model.aspx?modelid=1258425",
+   "stores": [
+    {
+     "store": "ג'נסיס",
+     "price": 3699,
+     "url": "https://www.zap.co.il/fs?pid=1440959207"
+    }
+   ],
+   "checked": "2026-11-18T17:47:19+00:00",
+   "error": null
+  }
+ },
+ "log": [
+  {
+   "time": "2026-11-18T17:47:19+00:00",
+   "model": "PS5 Slim דיגיטלי + FC 26",
+   "event": "נכנס למלאי",
+   "stores": [
+    "ג'נסיס"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:47:17+00:00",
+   "model": "PS5 Slim עם דיסק + שלט נוסף ומטען",
+   "event": "נכנס למלאי",
+   "stores": [
+    "גיים מובייל"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:47:14+00:00",
+   "model": "PS5 Slim עם דיסק + 2 שלטים",
+   "event": "נכנס למלאי",
+   "stores": [
+    "גיים מובייל",
+    "דוקטור צ'יפ"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:47:12+00:00",
+   "model": "PS5 Slim עם דיסק + Spider-Man 2",
+   "event": "נכנס למלאי",
+   "stores": [
+    "גיים מובייל",
+    "אנג'וי סטיק"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:47:09+00:00",
+   "model": "PS5 Slim עם דיסק + Astro Bot",
+   "event": "נכנס למלאי",
+   "stores": [
+    "גיים מובייל"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:47:07+00:00",
+   "model": "PS5 Slim עם דיסק + FC 26",
+   "event": "נכנס למלאי",
+   "stores": [
+    "ג'נסיס"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:47:04+00:00",
+   "model": "PS5 825GB דיגיטלי (דגם ישן)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "רשת GoMobile",
+    "הייטק מובייל",
+    "רשת GoMobile",
+    "סלפי",
+    "Best Cell Celular",
+    "אנג'וי סטיק",
+    "ג'נסיס",
+    "גיים מובייל",
+    "דוקטור צ'יפ",
+    "iTechstore"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:47:02+00:00",
+   "model": "PS5 825GB עם דיסק (דגם ישן)",
+   "event": "נכנס למלאי",
+   "stores": [
+    "ג'נסיס"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:47:00+00:00",
+   "model": "PS5 Pro 2TB + FC 26",
+   "event": "נכנס למלאי",
+   "stores": [
+    "ג'נסיס"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:46:57+00:00",
+   "model": "PS5 Pro 2TB",
+   "event": "נכנס למלאי",
+   "stores": [
+    "רשת GoMobile",
+    "רשת GoMobile",
+    "גלובל סלולר",
+    "נקסטק",
+    "סלפי",
+    "הייטק מובייל",
+    "מובייל לנד",
+    "Best Cell Celular",
+    "מחסני הסלולר",
+    "ג'נסיס",
+    "גיים מובייל",
+    "דוקטור צ'יפ",
+    "אנג'וי סטיק"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:46:55+00:00",
+   "model": "PS5 Slim 1TB דיגיטלי",
+   "event": "נכנס למלאי",
+   "stores": [
+    "Best Cell Celular",
+    "הייטק מובייל",
+    "Green Mobile"
+   ]
+  },
+  {
+   "time": "2026-11-18T17:46:52+00:00",
+   "model": "PS5 Slim 1TB עם דיסק",
+   "event": "נכנס למלאי",
+   "stores": [
+    "Best Cell Celular",
+    "סלפי",
+    "הייטק מובייל",
+    "טאצ' סטור",
+    "מחסני הסלולר",
+    "גיים מובייל",
+    "אנג'וי סטיק",
+    "ג'נסיס",
+    "דוקטור צ'יפ"
+   ]
+  }
+ ],
+ "updated": "2026-11-18T17:47:21+00:00"
+}
