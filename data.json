@@ -1,7 +1,7 @@
 {
  "models": {
   "1212371": {
-   "last_in_stock": "2026-11-27T03:14:36+00:00",
+   "last_in_stock": "2026-11-27T12:36:34+00:00",
    "since": "2026-11-18T17:46:52+00:00",
    "name": "PS5 Slim 1TB עם דיסק",
    "type": "דיסק",
@@ -28,6 +28,11 @@
      "url": "https://www.zap.co.il/fs?pid=1478348945"
     },
     {
+     "store": "גיים סטור",
+     "price": 3360,
+     "url": "https://www.zap.co.il/fs?pid=1475469015"
+    },
+    {
      "store": "מובייל לנד",
      "price": 3365,
      "url": "https://www.zap.co.il/fs?pid=1475579961"
@@ -36,11 +41,6 @@
      "store": "Best Cell Celular",
      "price": 3580,
      "url": "https://www.zap.co.il/fs?pid=1476416357"
-    },
-    {
-     "store": "גיים סטור",
-     "price": 3590,
-     "url": "https://www.zap.co.il/fs?pid=1475469015"
     },
     {
      "store": "מחסני הסלולר",
@@ -73,22 +73,22 @@
      "url": "https://www.zap.co.il/fs?pid=1478191951"
     },
     {
-     "store": "גיימרלנד",
-     "price": 3968,
-     "url": "https://www.zap.co.il/fs?pid=1478445844"
-    },
-    {
      "store": "דוקטור צ'יפ",
      "price": 3989,
      "url": "https://www.zap.co.il/fs?pid=1477639140"
+    },
+    {
+     "store": "גיימרלנד",
+     "price": 4099,
+     "url": "https://www.zap.co.il/fs?pid=1478445844"
     }
    ],
-   "checked": "2026-11-27T03:14:36+00:00",
+   "checked": "2026-11-27T12:36:34+00:00",
    "error": null,
    "in_stock": true
   },
   "1212373": {
-   "last_in_stock": "2026-11-27T03:14:39+00:00",
+   "last_in_stock": "2026-11-27T12:36:37+00:00",
    "since": "2026-11-18T17:46:55+00:00",
    "name": "PS5 Slim 1TB דיגיטלי",
    "type": "דיגיטלי",
@@ -96,7 +96,7 @@
    "stores": [
     {
      "store": "גיים סטור",
-     "price": 3600,
+     "price": 3499,
      "url": "https://www.zap.co.il/fs?pid=1475469014"
     },
     {
@@ -105,12 +105,12 @@
      "url": "https://www.zap.co.il/fs?pid=1464111264"
     }
    ],
-   "checked": "2026-11-27T03:14:39+00:00",
+   "checked": "2026-11-27T12:36:37+00:00",
    "error": null,
    "in_stock": true
   },
   "1236321": {
-   "last_in_stock": "2026-11-27T03:14:41+00:00",
+   "last_in_stock": "2026-11-27T12:36:39+00:00",
    "since": "2026-11-18T17:46:57+00:00",
    "name": "PS5 Pro 2TB",
    "type": "Pro",
@@ -127,6 +127,11 @@
      "url": "https://www.zap.co.il/fs?pid=1471940408"
     },
     {
+     "store": "נקסטק",
+     "price": 5689,
+     "url": "https://www.zap.co.il/fs?pid=1471774627"
+    },
+    {
      "store": "Zap+",
      "price": 5690,
      "url": "https://www.zap.co.il/fs?pid=1478539766"
@@ -135,11 +140,6 @@
      "store": "D9Shop",
      "price": 5699,
      "url": "https://www.zap.co.il/fs?pid=1474714317"
-    },
-    {
-     "store": "נקסטק",
-     "price": 5699,
-     "url": "https://www.zap.co.il/fs?pid=1471774627"
     },
     {
      "store": "מובייל לנד",
@@ -162,14 +162,14 @@
      "url": "https://www.zap.co.il/fs?pid=1477200373"
     },
     {
-     "store": "אנג'וי סטיק",
-     "price": 5999,
-     "url": "https://www.zap.co.il/fs?pid=1473620727"
-    },
-    {
      "store": "גיים מובייל",
      "price": 5999,
      "url": "https://www.zap.co.il/fs?pid=1475667767"
+    },
+    {
+     "store": "אנג'וי סטיק",
+     "price": 5999,
+     "url": "https://www.zap.co.il/fs?pid=1473620727"
     },
     {
      "store": "הייטק מובייל",
@@ -202,12 +202,12 @@
      "url": "https://www.zap.co.il/fs?pid=1475469009"
     }
    ],
-   "checked": "2026-11-27T03:14:41+00:00",
+   "checked": "2026-11-27T12:36:39+00:00",
    "error": null,
    "in_stock": true
   },
   "1259070": {
-   "last_in_stock": "2026-11-27T03:14:44+00:00",
+   "last_in_stock": "2026-11-27T12:36:41+00:00",
    "since": "2026-11-18T17:47:00+00:00",
    "name": "PS5 Pro 2TB + FC 26",
    "type": "Pro",
@@ -219,12 +219,12 @@
      "url": "https://www.zap.co.il/fs?pid=1440959205"
     }
    ],
-   "checked": "2026-11-27T03:14:44+00:00",
+   "checked": "2026-11-27T12:36:41+00:00",
    "error": null,
    "in_stock": true
   },
   "943747": {
-   "last_in_stock": "2026-11-27T03:14:46+00:00",
+   "last_in_stock": "2026-11-27T12:36:44+00:00",
    "since": "2026-11-18T17:47:02+00:00",
    "name": "PS5 825GB עם דיסק (דגם ישן)",
    "type": "דיסק",
@@ -241,12 +241,12 @@
      "url": "https://www.zap.co.il/fs?pid=1440959198"
     }
    ],
-   "checked": "2026-11-27T03:14:46+00:00",
+   "checked": "2026-11-27T12:36:44+00:00",
    "error": null,
    "in_stock": true
   },
   "1096042": {
-   "last_in_stock": "2026-11-27T03:14:48+00:00",
+   "last_in_stock": "2026-11-27T12:36:47+00:00",
    "since": "2026-11-18T17:47:04+00:00",
    "name": "PS5 825GB דיגיטלי (דגם ישן)",
    "type": "דיגיטלי",
@@ -273,6 +273,11 @@
      "url": "https://www.zap.co.il/fs?pid=1476932727"
     },
     {
+     "store": "Joy Mobile MP",
+     "price": 2899,
+     "url": "https://www.zap.co.il/fs?pid=1478911209"
+    },
+    {
      "store": "מובייל לנד",
      "price": 3240,
      "url": "https://www.zap.co.il/fs?pid=1474002706"
@@ -296,11 +301,6 @@
      "store": "הצלצול",
      "price": 3379,
      "url": "https://www.zap.co.il/fs?pid=1478696326"
-    },
-    {
-     "store": "Joy Mobile MP",
-     "price": 3390,
-     "url": "https://www.zap.co.il/fs?pid=1478445815"
     },
     {
      "store": "הייטק מובייל",
@@ -338,12 +338,12 @@
      "url": "https://www.zap.co.il/fs?pid=1475469008"
     }
    ],
-   "checked": "2026-11-27T03:14:48+00:00",
+   "checked": "2026-11-27T12:36:47+00:00",
    "error": null,
    "in_stock": true
   },
   "1257068": {
-   "last_in_stock": "2026-11-27T03:14:51+00:00",
+   "last_in_stock": "2026-11-27T12:36:49+00:00",
    "since": "2026-11-18T17:47:07+00:00",
    "name": "PS5 Slim עם דיסק + FC 26",
    "type": "דיסק",
@@ -355,12 +355,12 @@
      "url": "https://www.zap.co.il/fs?pid=1211315550"
     }
    ],
-   "checked": "2026-11-27T03:14:51+00:00",
+   "checked": "2026-11-27T12:36:49+00:00",
    "error": null,
    "in_stock": true
   },
   "1246900": {
-   "last_in_stock": "2026-11-27T03:14:53+00:00",
+   "last_in_stock": "2026-11-27T12:36:51+00:00",
    "since": "2026-11-18T17:47:09+00:00",
    "name": "PS5 Slim עם דיסק + Astro Bot",
    "type": "דיסק",
@@ -372,12 +372,12 @@
      "url": "https://www.zap.co.il/fs?pid=1274169202"
     }
    ],
-   "checked": "2026-11-27T03:14:53+00:00",
+   "checked": "2026-11-27T12:36:51+00:00",
    "error": null,
    "in_stock": true
   },
   "1212378": {
-   "last_in_stock": "2026-11-27T03:14:55+00:00",
+   "last_in_stock": "2026-11-27T12:36:53+00:00",
    "since": "2026-11-18T17:47:12+00:00",
    "name": "PS5 Slim עם דיסק + Spider-Man 2",
    "type": "דיסק",
@@ -394,12 +394,12 @@
      "url": "https://www.zap.co.il/fs?pid=1475745998"
     }
    ],
-   "checked": "2026-11-27T03:14:55+00:00",
+   "checked": "2026-11-27T12:36:53+00:00",
    "error": null,
    "in_stock": true
   },
   "1246933": {
-   "last_in_stock": "2026-11-27T03:14:57+00:00",
+   "last_in_stock": "2026-11-27T12:36:56+00:00",
    "since": "2026-11-18T17:47:14+00:00",
    "name": "PS5 Slim עם דיסק + 2 שלטים",
    "type": "דיסק",
@@ -416,12 +416,12 @@
      "url": "https://www.zap.co.il/fs?pid=1476117436"
     }
    ],
-   "checked": "2026-11-27T03:14:57+00:00",
+   "checked": "2026-11-27T12:36:56+00:00",
    "error": null,
    "in_stock": true
   },
   "1212380": {
-   "last_in_stock": "2026-11-27T03:15:00+00:00",
+   "last_in_stock": "2026-11-27T12:36:58+00:00",
    "since": "2026-11-18T17:47:17+00:00",
    "name": "PS5 Slim עם דיסק + שלט נוסף ומטען",
    "type": "דיסק",
@@ -433,12 +433,12 @@
      "url": "https://www.zap.co.il/fs?pid=1261550534"
     }
    ],
-   "checked": "2026-11-27T03:15:00+00:00",
+   "checked": "2026-11-27T12:36:58+00:00",
    "error": null,
    "in_stock": true
   },
   "1258425": {
-   "last_in_stock": "2026-11-27T03:15:02+00:00",
+   "last_in_stock": "2026-11-27T12:37:00+00:00",
    "since": "2026-11-18T17:47:19+00:00",
    "name": "PS5 Slim דיגיטלי + FC 26",
    "type": "דיגיטלי",
@@ -450,7 +450,7 @@
      "url": "https://www.zap.co.il/fs?pid=1440959207"
     }
    ],
-   "checked": "2026-11-27T03:15:02+00:00",
+   "checked": "2026-11-27T12:37:00+00:00",
    "error": null,
    "in_stock": true
   }
@@ -762,7 +762,7 @@
    ]
   }
  ],
- "updated": "2026-11-27T03:15:35+00:00",
+ "updated": "2026-11-27T12:37:35+00:00",
  "direct": {
   "https://www.bug.co.il/brand/sony/playstation/5/slim/digital": {
    "store": "באג",
@@ -771,7 +771,7 @@
    "price": 2199,
    "url": "https://www.bug.co.il/brand/sony/playstation/5/slim/digital",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:05+00:00",
+   "checked": "2026-11-27T12:37:04+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:50:47+00:00"
@@ -783,7 +783,7 @@
    "price": 2399,
    "url": "https://www.bug.co.il/brand/sony/playstation/5/slim/fc26",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:07+00:00",
+   "checked": "2026-11-27T12:37:07+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:50:49+00:00"
@@ -795,7 +795,7 @@
    "price": 3899,
    "url": "https://www.ivory.co.il/catalog.php?id=156145",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:10+00:00",
+   "checked": "2026-11-27T12:37:10+00:00",
    "error": null,
    "last_in_stock": "2026-11-26T02:53:45+00:00",
    "since": "2026-11-26T11:50:39+00:00"
@@ -807,7 +807,7 @@
    "price": 3989,
    "url": "https://www.drchip.co.il/items/7750167-sony-playstation-5-slim-1tb-blu-ray",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:30+00:00",
+   "checked": "2026-11-27T12:37:31+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:50:58+00:00"
@@ -819,7 +819,7 @@
    "price": 3789,
    "url": "https://www.drchip.co.il/items/6483599-ps5-slim-digital-825gb",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:30+00:00",
+   "checked": "2026-11-27T12:37:31+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:50:58+00:00"
@@ -831,7 +831,7 @@
    "price": 6789,
    "url": "https://www.drchip.co.il/items/7442677-ps5-pro-2tb-digital-white",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:30+00:00",
+   "checked": "2026-11-27T12:37:31+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:50:58+00:00"
@@ -939,9 +939,9 @@
    "price": 4699,
    "url": "https://greenmobile.co.il/product/sony-playstation-5-slim-30th-anniversary-digital-1tb/",
    "in_stock": true,
-   "checked": "2026-11-27T03:15:17+00:00",
+   "checked": "2026-11-27T12:37:17+00:00",
    "error": null,
-   "last_in_stock": "2026-11-27T03:15:17+00:00",
+   "last_in_stock": "2026-11-27T12:37:17+00:00",
    "since": "2026-11-18T17:53:58+00:00"
   },
   "https://greenmobile.co.il/product/%d7%a1%d7%95%d7%a0%d7%99-sony-playstation-5-825gb-digital-edition-%d7%99%d7%91%d7%95%d7%90%d7%9f-%d7%a8%d7%a9%d7%9e%d7%99-%d7%99%d7%a9%d7%a4%d7%90%d7%a8/": {
@@ -963,9 +963,9 @@
    "price": 3849,
    "url": "https://greenmobile.co.il/product/playstation-5-slim-1tb-blu-ray/",
    "in_stock": true,
-   "checked": "2026-11-27T03:15:17+00:00",
+   "checked": "2026-11-27T12:37:17+00:00",
    "error": null,
-   "last_in_stock": "2026-11-27T03:15:17+00:00",
+   "last_in_stock": "2026-11-27T12:37:17+00:00",
    "since": "2026-11-18T17:53:58+00:00"
   },
   "https://www.itechmobile.co.il/product/sony-playstation-5-slim-1tb-digital-edition-cfi-2016/": {
@@ -975,7 +975,7 @@
    "price": 3600,
    "url": "https://www.itechmobile.co.il/product/sony-playstation-5-slim-1tb-digital-edition-cfi-2016/",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:20+00:00",
+   "checked": "2026-11-27T12:37:20+00:00",
    "error": null,
    "last_in_stock": "2026-11-25T01:53:01+00:00",
    "since": "2026-11-25T10:50:42+00:00"
@@ -987,9 +987,9 @@
    "price": 3450,
    "url": "https://www.itechmobile.co.il/product/sony-playstation-5-slim-digital-edition-825gb/",
    "in_stock": true,
-   "checked": "2026-11-27T03:15:20+00:00",
+   "checked": "2026-11-27T12:37:20+00:00",
    "error": null,
-   "last_in_stock": "2026-11-27T03:15:20+00:00",
+   "last_in_stock": "2026-11-27T12:37:20+00:00",
    "since": "2026-11-18T17:54:02+00:00"
   },
   "https://www.itechmobile.co.il/product/sony-playstation-5-slim-825gb-digital-edition/": {
@@ -999,9 +999,9 @@
    "price": 1999,
    "url": "https://www.itechmobile.co.il/product/sony-playstation-5-slim-825gb-digital-edition/",
    "in_stock": true,
-   "checked": "2026-11-27T03:15:20+00:00",
+   "checked": "2026-11-27T12:37:20+00:00",
    "error": null,
-   "last_in_stock": "2026-11-27T03:15:20+00:00",
+   "last_in_stock": "2026-11-27T12:37:20+00:00",
    "since": "2026-11-18T17:54:02+00:00"
   },
   "https://www.itechmobile.co.il/product/sony-playstation-5-pro-gaming-console-2tb/": {
@@ -1011,9 +1011,9 @@
    "price": 6090,
    "url": "https://www.itechmobile.co.il/product/sony-playstation-5-pro-gaming-console-2tb/",
    "in_stock": true,
-   "checked": "2026-11-27T03:15:20+00:00",
+   "checked": "2026-11-27T12:37:20+00:00",
    "error": null,
-   "last_in_stock": "2026-11-27T03:15:20+00:00",
+   "last_in_stock": "2026-11-27T12:37:20+00:00",
    "since": "2026-11-18T17:54:02+00:00"
   },
   "https://www.itechmobile.co.il/product/sony-playstation-5-slim-1tb-blu-ray-edition-cfi-2016-%d7%a1%d7%95%d7%a0%d7%99-%d7%9b%d7%95%d7%a0%d7%9f-%d7%93%d7%99%d7%a1%d7%a7%d7%99%d7%9d-%d7%99%d7%91%d7%95%d7%90%d7%9f-%d7%a8%d7%a9%d7%9e%d7%99/": {
@@ -1023,9 +1023,9 @@
    "price": 3790,
    "url": "https://www.itechmobile.co.il/product/sony-playstation-5-slim-1tb-blu-ray-edition-cfi-2016-%d7%a1%d7%95%d7%a0%d7%99-%d7%9b%d7%95%d7%a0%d7%9f-%d7%93%d7%99%d7%a1%d7%a7%d7%99%d7%9d-%d7%99%d7%91%d7%95%d7%90%d7%9f-%d7%a8%d7%a9%d7%9e%d7%99/",
    "in_stock": true,
-   "checked": "2026-11-27T03:15:20+00:00",
+   "checked": "2026-11-27T12:37:20+00:00",
    "error": null,
-   "last_in_stock": "2026-11-27T03:15:20+00:00",
+   "last_in_stock": "2026-11-27T12:37:20+00:00",
    "since": "2026-11-18T17:54:02+00:00"
   },
   "https://www.enjoystick.co.il/items/7412752-PlayStation-5-Pro-Console-30th-Anniversary-Limited-Edition-BundIe-Sony-": {
@@ -1047,7 +1047,7 @@
    "price": 4199,
    "url": "https://www.enjoystick.co.il/items/9546796-Sony-PlayStation-5-1TB-Slim-Blu-ray-Edition-%D7%9E%D7%90%D7%A8%D7%96-%D7%94%D7%9B%D7%95%D7%9C%D7%9C-%D7%A9%D7%9C%D7%95%D7%A9%D7%94-%D7%9E%D7%A9%D7%97%D7%A7%D7%99%D7%9D-",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:33+00:00",
+   "checked": "2026-11-27T12:37:33+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:54:11+00:00"
@@ -1059,7 +1059,7 @@
    "price": 4199,
    "url": "https://www.enjoystick.co.il/items/6430270-Sony-PlayStation-5-1TB-Slim-Blu-ray-2-Controllers-FC-27-",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:33+00:00",
+   "checked": "2026-11-27T12:37:33+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:54:11+00:00"
@@ -1071,9 +1071,9 @@
    "price": 3599,
    "url": "https://www.enjoystick.co.il/items/6691149-Sony-PlayStation-5-825GB-Slim-Digital-Edition-%D7%9B%D7%95%D7%9C%D7%9C-%D7%A9%D7%A0%D7%99-%D7%A9%D7%9C%D7%98%D7%99%D7%9D-%D7%A1%D7%95%D7%A0%D7%99-%D7%93%D7%99%D7%92%D7%99%D7%98%D7%9C-%D7%A1%D7%9C%D7%99%D7%9D-",
    "in_stock": true,
-   "checked": "2026-11-27T03:15:33+00:00",
+   "checked": "2026-11-27T12:37:33+00:00",
    "error": null,
-   "last_in_stock": "2026-11-27T03:15:33+00:00",
+   "last_in_stock": "2026-11-27T12:37:33+00:00",
    "since": "2026-11-18T17:54:11+00:00"
   },
   "https://www.enjoystick.co.il/items/6416473-Sony-PlayStation-5-1TB-Slim-Blu-ray-Edition-": {
@@ -1083,7 +1083,7 @@
    "price": 3599,
    "url": "https://www.enjoystick.co.il/items/6416473-Sony-PlayStation-5-1TB-Slim-Blu-ray-Edition-",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:33+00:00",
+   "checked": "2026-11-27T12:37:33+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:54:11+00:00"
@@ -1095,9 +1095,9 @@
    "price": 3599,
    "url": "https://www.enjoystick.co.il/items/9007747-Sony-PlayStation-5-Slim-825GB-Digital-Edition-CFI-2116B-%D7%A1%D7%95%D7%A0%D7%99",
    "in_stock": true,
-   "checked": "2026-11-27T03:15:33+00:00",
+   "checked": "2026-11-27T12:37:33+00:00",
    "error": null,
-   "last_in_stock": "2026-11-27T03:15:33+00:00",
+   "last_in_stock": "2026-11-27T12:37:33+00:00",
    "since": "2026-11-18T17:54:11+00:00"
   },
   "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-playstation-5-slim-%d7%9e%d7%94%d7%93%d7%95%d7%a8%d7%94-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99%d7%aa-%d7%91/": {
@@ -1107,9 +1107,9 @@
    "price": 6999,
    "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-playstation-5-slim-%d7%9e%d7%94%d7%93%d7%95%d7%a8%d7%94-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99%d7%aa-%d7%91/",
    "in_stock": true,
-   "checked": "2026-11-27T03:15:24+00:00",
+   "checked": "2026-11-27T12:37:24+00:00",
    "error": null,
-   "last_in_stock": "2026-11-27T03:15:24+00:00",
+   "last_in_stock": "2026-11-27T12:37:24+00:00",
    "since": "2026-11-18T17:55:46+00:00"
   },
   "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9playstation-5-%d7%a7%d7%95%d7%a0%d7%a1%d7%95%d7%9c%d7%94-%d7%91%d7%9c%d7%95-%d7%a8%d7%99/": {
@@ -1119,7 +1119,7 @@
    "price": 6000,
    "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9playstation-5-%d7%a7%d7%95%d7%a0%d7%a1%d7%95%d7%9c%d7%94-%d7%91%d7%9c%d7%95-%d7%a8%d7%99/",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:27+00:00",
+   "checked": "2026-11-27T12:37:27+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:55:46+00:00"
@@ -1131,7 +1131,7 @@
    "price": 5000,
    "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%99%d7%a9%d7%9f-5-%d7%a4%d7%a8%d7%95-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99-playstation-5-pro-digital-%d7%99%d7%91%d7%95%d7%90%d7%9f-%d7%a8%d7%a9-2/",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:24+00:00",
+   "checked": "2026-11-27T12:37:24+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:55:46+00:00"
@@ -1143,7 +1143,7 @@
    "price": 6000,
    "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%99%d7%a9%d7%9f-5-%d7%a4%d7%a8%d7%95-%d7%93%d7%99%d7%92%d7%99%d7%98%d7%9c%d7%99-playstation-5-pro-digital-%d7%99%d7%91%d7%95%d7%90%d7%9f-%d7%a8%d7%a9/",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:24+00:00",
+   "checked": "2026-11-27T12:37:24+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:55:46+00:00"
@@ -1155,7 +1155,7 @@
    "price": 4150,
    "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9-playstation-5-cfi-2016a-slim-%d7%9b%d7%95%d7%a0%d7%9f-%d7%91%d7%9c%d7%95-%d7%a8%d7%99-5/",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:27+00:00",
+   "checked": "2026-11-27T12:37:27+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:55:46+00:00"
@@ -1167,7 +1167,7 @@
    "price": 3999,
    "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9-playstation-5-cfi-2016a-slim-%d7%9b%d7%95%d7%a0%d7%9f-%d7%91%d7%9c%d7%95-%d7%a8%d7%99-4/",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:27+00:00",
+   "checked": "2026-11-27T12:37:27+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:55:46+00:00"
@@ -1179,7 +1179,7 @@
    "price": 3700,
    "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9-playstation-5-slim-%d7%9b%d7%95%d7%a0%d7%9f-%d7%91%d7%9c%d7%95-%d7%a8%d7%99/",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:27+00:00",
+   "checked": "2026-11-27T12:37:27+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:55:46+00:00"
@@ -1191,9 +1191,9 @@
    "price": 9999,
    "url": "https://roy-games.co.il/product/%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-%d7%a1%d7%9c%d7%99%d7%9d-slim-%d7%94%d7%97%d7%93%d7%a9-%d7%a7%d7%95%d7%a0%d7%a1%d7%95%d7%9c%d7%aa-ps5-slim-%d7%91%d7%9e%d7%94%d7%93%d7%95/",
    "in_stock": true,
-   "checked": "2026-11-27T03:15:27+00:00",
+   "checked": "2026-11-27T12:37:27+00:00",
    "error": null,
-   "last_in_stock": "2026-11-27T03:15:27+00:00",
+   "last_in_stock": "2026-11-27T12:37:27+00:00",
    "since": "2026-11-18T17:55:49+00:00"
   },
   "https://roy-games.co.il/product/%d7%a7%d7%95%d7%a0%d7%a1%d7%95%d7%9c%d7%aa-%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-slim-825gb-digital-edition/": {
@@ -1203,7 +1203,7 @@
    "price": 3000,
    "url": "https://roy-games.co.il/product/%d7%a7%d7%95%d7%a0%d7%a1%d7%95%d7%9c%d7%aa-%d7%a4%d7%9c%d7%99%d7%99%d7%a1%d7%98%d7%99%d7%a9%d7%9f-5-slim-825gb-digital-edition/",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:27+00:00",
+   "checked": "2026-11-27T12:37:27+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-18T17:55:49+00:00"
@@ -1215,7 +1215,7 @@
    "price": 4279,
    "url": "https://www.drchip.co.il/items/6350975-sony-ps5-slim-1tb-disc-2-controllers-official",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:30+00:00",
+   "checked": "2026-11-27T12:37:31+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-19T21:58:29+00:00"
@@ -1239,9 +1239,9 @@
    "price": 6349,
    "url": "https://www.enjoystick.co.il/items/9804360--Sony-PS5-Pro-%D7%A7%D7%95%D7%A0%D7%A1%D7%95%D7%9C%D7%AA-%D7%A4%D7%9C%D7%99%D7%99%D7%A1%D7%98%D7%99%D7%99%D7%A9%D7%9F-5-%D7%A4%D7%A8%D7%95-2TB-Digital-CFI-7121B-GTA-VI-",
    "in_stock": true,
-   "checked": "2026-11-27T03:15:33+00:00",
+   "checked": "2026-11-27T12:37:33+00:00",
    "error": null,
-   "last_in_stock": "2026-11-27T03:15:33+00:00",
+   "last_in_stock": "2026-11-27T12:37:33+00:00",
    "since": "2026-11-21T21:10:47+00:00"
   },
   "https://www.drchip.co.il/items/3207526-ps5-digital-825gb-gta6-2-controllers-charging-bundle": {
@@ -1263,7 +1263,7 @@
    "price": 3949,
    "url": "https://www.enjoystick.co.il/items/6709143-Sony-PlayStation-5-1TB-Slim-Blu-ray-Edition-%D7%A2%D7%9D-%D7%A9%D7%A0%D7%99-%D7%91%D7%A7%D7%A8%D7%99%D7%9D-",
    "in_stock": false,
-   "checked": "2026-11-27T03:15:33+00:00",
+   "checked": "2026-11-27T12:37:33+00:00",
    "error": null,
    "last_in_stock": null,
    "since": "2026-11-22T21:53:47+00:00"
